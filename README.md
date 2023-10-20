@@ -13,7 +13,9 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 ```
 
-
+```
+Creating a new branch is quick.
+```
 
 Git 的工作就是创建和保存你的项目的快照及与之后的快照进行对比。
 
